@@ -1,0 +1,11 @@
+ros-noetic-wibotic-msg (0.0.1-1focal) focal; urgency=high
+
+  * Updated CMakeLists and package.xml
+  * Removes breaking library declaration
+  * Update repository to Rev_8
+  * Update repo to Rev_7
+  * Contributors: Matthew Barulic, Roni Kreinin, WiBotic Bot, wiboticalex
+
+ -- Roni Kreinin <rkreinin@clearpathrobotics.com>  Wed, 25 Jan 2023 05:00:00 -0000
+
+
